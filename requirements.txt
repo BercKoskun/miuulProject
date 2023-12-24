@@ -164,3 +164,4 @@ yarg==0.1.9
 yarl==1.9.2
 zipp==3.17.0
 scikit-learn
+openpyxl
