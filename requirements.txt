@@ -30,7 +30,7 @@ statsmodels==0.14.1
 scipy==1.11.3
 missingno==0.4.2
 joblib==1.2.0
-streamlit==1.29.0
+streamlit==1.29
 pyodbc==4.0.39
 sqlalchemy==2.0.21
 selenium==4.15.2
